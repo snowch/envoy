@@ -28,11 +28,19 @@ This diagram shows how a mobile application would typically interact with Envoy:
 
 ## Installation
 
-There are a few ways to get started with Envoy depending on your goals.   See this [page](./docs/README_INSTALL.md) for more information.
+The quickest way to get started with Envoy is:
+
+```
+npm install -g envoy
+export COUCH_HOST='https://key:passwd@account.cloudant.com'
+envoy
+```
+
+There are a few other ways to install Envoy depending on your goals.   See this [page](./docs/README_INSTALL.md) for more information.
 
 ## Production Deployment
 
-See this [page](./docs/README_PRODUCTION.md) for more information on deploying Envoy to a production environment.
+See this [page](./docs/README_PRODUCTION.md) for information on deploying Envoy to a production environment.
 
 ## Developing your application to use Envoy
 
