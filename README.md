@@ -28,15 +28,21 @@ This diagram shows how a mobile application would typically interact with Envoy:
 
 ## Installation
 
-There are a few ways to get started with Envoy:
+There are a few ways to get started with Envoy depending on your goals:
 
-- Deploy to Bluemix
-- Using Node Package Manager (npm)
-- Manual installation
+- Demo installation
+- Developer installation
+- Production Installation 
 - Using Envoy as a library
 
+## Configuring
 
-## Frequently Asked Questions
+The default setup will be suitable for most use cases, however it is possible to configure Envoy's:
+
+  - Authentication
+  - Access
+
+See [here](./docs/README_PLUGINS.md) for more information.
 
 ## Help!
 
