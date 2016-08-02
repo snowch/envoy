@@ -35,9 +35,9 @@ There are a few ways to get started with Envoy depending on your goals:
 - Production Installation 
 - Using Envoy as a library
 
-## Configuring
+## Customisation
 
-The default setup will be suitable for most use cases, however it is possible to configure Envoy's:
+The default setup will be suitable for most use cases, however it is possible to customize Envoy's:
 
   - Authentication
   - Access
