@@ -28,16 +28,15 @@ This diagram shows how a mobile application would typically interact with Envoy:
 
 ## Installation
 
-There are a few ways to get started with Envoy depending on your goals:
+There are a few ways to get started with Envoy depending on your goals.   See this [page](./docs/README_INSTALL.md) for more information.
 
-- Demo installation
-- Developer installation
-- Production Installation 
-- Using Envoy as a library
+## Production Deployment
+
+See this [page](./docs/README_PRODUCTION.md) for more information on deploying Envoy to a production environment.
 
 ## Developing your application to use Envoy
 
-
+You can see from the [Sequence diagram](./docs/envoy_sequence.png) above that your application needs to interact with Envoy for authentication and also for sync.  See this [page](./docs/README_DEVELOPING_APPS.md) for more information.
 
 ## Customisation
 
