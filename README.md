@@ -51,7 +51,7 @@ You can see from the [Sequence diagram](./docs/envoy_sequence.png) above that yo
 The default setup will be suitable for most use cases, however it is possible to customize Envoy's:
 
   - Authentication
-  - Access
+  - Access Control
 
 See [here](./docs/README_PLUGINS.md) for more information.
 
